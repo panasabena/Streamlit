@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import io
-import missingno as msno
+#import missingno as msno
 import matplotlib.pyplot as plt
 import plotly_express as px
 
