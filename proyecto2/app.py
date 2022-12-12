@@ -35,7 +35,7 @@ with dataset:
     ## Explicamos de donde obtuvimos nuestro dataset
     st.text('This dataset is from https://data.buenosaires.gob.ar/dataset/')
     ## Abrimos dataset
-    bicycle_data = get_data('../Datasets/EstacionesBicicletaModificado.csv')
+    bicycle_data = get_data('./Datasets/EstacionesBicicletaModificado.csv')
     ## Imprimimos cabecera del dataset
     st.write(bicycle_data.head())
 
