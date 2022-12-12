@@ -1,0 +1,397 @@
+lat;long;nombre_estacion;id_estacion;capacidad;dirección_completa;direccion_nombre;direccion_altura;direccion_interseccion;barrio
+-3.459.242.329.999.990;-5.837.471.510.000.000;002 - Retiro I;2;20.0;Ramos Mejia, Jose Maria, Dr. Av. y Del Libertador Av.;Ramos Mejia, Jose Maria, Dr. Av.;;Del Libertador Av.;Retiro
+-34.611.032;-583.682.604;003 - ADUANA;3;20.0;Moreno y Paseo Colon Av.;Moreno;;Paseo Colon Av.;Monserrat
+-346.017.255;-58.368.762.800.000.000;004 - Plaza Roma;4;20.0;Lavalle y Bouchard;Lavalle;;Bouchard;San Nicolas
+-3.458.054.970.000.000;-58.420.954.200.000.000;005 - Plaza Italia;5;42.0;Sarmiento Av. 2601;Sarmiento Av.;2601.0;;Palermo
+-34.628.526;-58.369.758;006 - Parque Lezama;6;20.0;Garcia, Martin Av. 295;Garcia, Martin Av.;295.0;;San Telmo
+-34.606.497.999.999.900;-58.381.098;007 - OBELISCO;7;16.0;Pellegrini, Carlos 215;Pellegrini, Carlos;215.0;;San Nicolas
+-346.094.218;-583.893.364;008 - Congreso;8;24.0;Cevallos, Virrey y Yrigoyen, Hipolito Av.;Cevallos, Virrey;;Yrigoyen, Hipolito Av.;San Nicolas
+-34.585.443;-58.407.741;009 - Parque Las Heras;9;24.0;Diaz, Cnel. Av. 2300;Diaz, Cnel. Av.;2300.0;French;Palermo
+-34.601.176.200.000.000;-583.850.791;011 - Tribunales;11;20.0;Talcahuano 600;Talcahuano;600.0;;San Nicolas
+-345.927.096;-5.838.880.699.999.990;012 - Plaza Vicente Lopez;12;16.0;Parana y Juncal;Parana;;Juncal;Recoleta
+-3.461.009;-5.840.600.000.000.000;013 - ONCE;13;30.0;Pueyrredon Av. y Rivadavia Av.;Pueyrredon Av.;;Rivadavia Av.;Balvanera
+-34.577.424;-58.426.387;014 - Pacifico;14;30.0;Santa Fe Av. y Bullrich, Int. Av.;Santa Fe Av.;;Bullrich, Int. Av.;Palermo
+-346.004;-583.636.706;015 - JUANA MANSO II;15;20.0;Manso Juana y De La Barra,  Emma;Manso Juana;;De La Barra,  Emma;Puerto Madero
+-34.606.410.100.000.000;-58.418.730.599.999.900;017 - Plaza Almagro;17;20.0;Bulnes 441;Bulnes;441.0;Peron, Juan Domingo, Tte. General;Almagro
+-345.956.027;-583.776.353;019 - PLAZA SAN MARTIN;19;24.0;Santa Fe Av. 750;Santa Fe Av.;750.0;Maipu;Retiro
+-345.798.619;-5.844.177.560.000.000;020 - Distrito Audiovisual;20;20.0;Zapiola y Dorrego;Zapiola;;Dorrego;Colegiales
+-3.463.968.320.000.000;-584.062.115;021 - Parque Patricios;21;24.0;Iguazu y Uspallata;Iguazu;;Uspallata;Parque Patricios
+-345.938.629;-583.825.498;022 - Arenales;22;20.0;Cerrito y Arenales;Cerrito;;Arenales;Retiro
+-34.600.309.499.999.900;-583.793.463;023 - Suipacha;23;12.0;Suipacha y Viamonte;Suipacha;;Viamonte;San Nicolas
+-34.610.583;-58.380.894.299.999.900;024 - ALSINA;24;18.0;Alsina, Adolfo E Irigoyen, Bernardo De;Alsina, Adolfo;;Irigoyen, Bernardo De;Monserrat
+-345.894.269;-58.416.117.799.999.900;025 - Plaza Guemes;25;24.0;Salguero, Jeronimo y Mansilla, Lucio Norberto, General;Salguero, Jeronimo;;Mansilla, Lucio Norberto, General;Palermo
+-34.600.460.600.000.000;-583.636.593;026 - JUANA MANSO I;26;24.0;Manso Juana y De La Barra,  Emma;Manso Juana;;De La Barra,  Emma;Puerto Madero
+-34.599.068;-583.900.887;027 - Montevideo;27;16.0;Cordoba Av. y Montevideo;Cordoba Av.;;Montevideo;San Nicolas
+-346.231.273;-584.127.377;028 - Plaza Boedo;28;20.0;Calvo, Carlos 3310;Calvo, Carlos;3310.0;Sanchez De Loria;San Cristobal
+-346.079.414;-584.335.573;029 - Parque Centenario;29;30.0;Patricias Argentinas Av. y Estivao;Patricias Argentinas Av.;;Estivao;Caballito
+-345.908.211;-583.973.698;030 - Peña;30;20.0;Peña y Azcuenaga;Peña;;Azcuenaga;Recoleta
+-346.032.081;-5.843.964.570.000.000;031 - Padilla;31;20.0;Padilla y Alvarez, Julian;Padilla;;Alvarez, Julian;Villa Crespo
+-3.460.720.739.999.990;-5.837.359.839.999.990;032 - Catedral;32;16.0;San Martin 67;San Martin;67.0;;San Nicolas
+-345.970.909;-583.989.807;033 - Facultad de Medicina;33;20.0;Uriburu Jose E., Pres. 987;Uriburu Jose E., Pres.;987.0;;Recoleta
+-346.045.481;-583.767.677;036 - MAIPÚ;36;16.0;Maipu 300;Maipu;300.0;;San Nicolas
+-3.459.704.970.000.000;-5.838.284.029.999.990;038 - Plaza Libertad;38;20.0;Cerrito 990;Cerrito;990.0;Alvear, Marcelo T. De;Retiro
+-346.092.213;-5.838.769.250.000.000;039 - CONGRESO II;39;20.0;Rivadavia Av. y Parana;Rivadavia Av.;;Parana;Monserrat
+-34.604.461;-58.373.499;040 - Sarmiento;40;16.0;Sarmiento 481;Sarmiento;481.0;;San Nicolas
+-346.364.511;-584.076.348;041 - URQUIZA;41;20.0;Urquiza, Gral. y Rondeau;Urquiza, Gral.;;Rondeau;Parque Patricios
+-34.604.447;-5.838.003.248;042 - Diagonal Norte;42;24.0;Saenz Peña, Roque, Pres. Diagonal Norte Av. y Suipacha;Saenz Peña, Roque, Pres. Diagonal Norte Av.;;Suipacha;San Nicolas
+-34.583.918;-583.900.194;334 - CENTRO DE EXPOSICIONES;43;28.0;Figueroa Alcorta, Pres. Av. 2133;Figueroa Alcorta, Pres. Av.;2133.0;;Recoleta
+-345.755.148;-58.413.882.900.000.000;044 - Ecoparque;44;20.0;Del Libertador Av. 3260;Del Libertador Av.;3260.0;;Palermo
+-346.018.635;-583.866.934;045 - Uruguay;45;20.0;Uruguay Av. 561;Uruguay Av.;561.0;Tucuman;San Nicolas
+-346.163.012;-5.837.437.489.999.990;046 - Chile;46;18.0;Peru 718;Peru;718.0;;San Telmo
+-346.117.408;-583.733.149;047 - Colegio Nacional de Buenos Aires;47;16.0;Bolivar 306;Bolivar;306.0;Moreno;Monserrat
+-34.623.937;-58.362.004.000.000.000;034 - Colonia Express;48;16.0;Dellepiane y Pedro De Mendoza;Dellepiane;150.0;Don Pedro De Mendoza Av.;San Nicolas
+-346.290.527;-58.422.610.999.999.900;049 - 33 Orientales;49;20.0;Constitucion y Treinta y Tres Orientales;Constitucion;;Treinta Y Tres Orientales;Boedo
+-345.837.348;-584.010.798;050 - Hospital Rivadavia;50;19.0;Pereyra Lucena 2516;Pereyra Lucena;2516.0;;Palermo
+-346.014.776;-5.838.212.610.000.000;051 - TUCUMAN;51;12.0;Tucuman y 9 De Julio Av.;Tucuman;;9 De Julio Av.;San Nicolas
+-34.606.682;-58.414.851;052 - SANCHEZ DE BUSTAMANTE;52;20.0;Sanchez De Bustamante 212;Sanchez De Bustamante;212.0;;Almagro
+-345.952.579;-58.374.351.399.999.900;053 - Ricardo Rojas;53;20.0;San Martin 1068;San Martin;1068.0;;Retiro
+-345.981.183;-5.842.198.440.000.000;054 - Acuña de Figueroa;54;20.0;Lavalle y Acuña De Figueroa, Francisco;Lavalle;;Acuña De Figueroa, Francisco;Almagro
+-345.994.122;-5.836.966.404;055 - Bouchard;55;20.0;Viamonte 101;Viamonte;101.0;;San Nicolas
+-34.588.567;-58.425.999;056 - Plaza Palermo Viejo;56;16.0;Costa Rica y Armenia;Costa Rica;;Armenia;Palermo
+-346.134.468;-583.706.051;057 - BELGRANO;57;16.0;Balcarce 482;Balcarce;482.0;;Monserrat
+-345.752.773;-5.843.468.829.999.990;058 - Ministro Carranza;58;20.0;Santa Fe Av. y Dorrego;Santa Fe Av.;;Dorrego;Palermo
+-34.617.771.000.000.000;-583.804.546;018 - Independencia;59;20.0;Independencia Av. E Irigoyen, Bernardo De;Independencia Av.;;Irigoyen, Bernardo De;Monserrat
+-346.016.509;-58.371.079;060 - 25 De Mayo;60;20.0;25 De Mayo 527; De Mayo;527.0;;San Nicolas
+-345.985.102;-5.837.685.010.000.000;062 - Córdoba;62;20.0;Maipu 820;Maipu;820.0;;Retiro
+-345.987.657;-583.728.605;063 - Reconquista;63;20.0;Reconquista 76;Reconquista;76.0;Cordoba Av.;San Nicolas
+-345.936.508;-58.394.108.700.000.000;064 - RIOBAMBA;64;20.0;Riobamba 1264;Riobamba;1264.0;Juncal;Recoleta
+-345.873.124;-5.841.578.730.000.000;065 - Julián Álvarez;65;20.0;Guemes 3822;Guemes;3822.0;;Palermo
+-345.945.475;-584.138.713;066 - Billinghurst;66;20.0;Carcova, De La 3508;Carcova, De La;3508.0;;Recoleta
+-346.065.099;-58.385.434;068 - Rivarola;68;20.0;Rivarola, Rodolfo, Dr. 175;Rivarola, Rodolfo, Dr.;175.0;;San Nicolas
+-345.961.006;-584.046.092;069 - Ecuador;69;16.0;Ecuador 1226;Ecuador;1226.0;Mansilla, Lucio Norberto, General;Recoleta
+-345.926.862;-584.260.597;070 - ARAOZ;70;20.0;Araoz 1413;Araoz;1413.0;Gorriti;Palermo
+-3.460.266.729.999.990;-583.833.559;071 - CERRITO;71;30.0;Saenz Peña, Roque, Pres. Diagonal Norte Av. y Cerrito;Saenz Peña, Roque, Pres. Diagonal Norte Av.;;Cerrito;San Nicolas
+-34.613.542.100.000.000;-58.374.663.500.000.000;072 - Venezuela;72;18.0;Peru 490;Peru;490.0;;Monserrat
+-346.306.814;-583.718.235;073 - Ruy Díaz de Guzmán;73;16.0;Garcia, Martin Av. y Ruy Diaz De Guzman;Garcia, Martin Av.;;Ruy Diaz De Guzman;Boca
+-346.043.825;-584.346.338;074 - INSTITUTO  LELOIR;74;24.0;Ibarbourou, Juana De y Patricias Argentinas Av.;Ibarbourou, Juana De;;Patricias Argentinas Av.;Caballito
+-34.612.297.600.000.000;-5.839.898.710.000.000;075 - Plaza Primero de Mayo;75;20.0;Pichincha 238;Pichincha;238.0;;Balvanera
+-346.116.273;-5.839.473.670.000.000;077 - SARANDI;77;20.0;Sarandi 176;Sarandi;176.0;Alsina, Adolfo;Balvanera
+-345.910.737;-583.799.953;078 - SUIPACHA Y ARROYO;78;20.0;Suipacha 1420;Suipacha;1420.0;;Retiro
+-3.461.189;-5.836.393;079 - AZUCENA VILLAFLOR;79;30.0;Villaflor, Azucena y Dealessi, Pierina;Villaflor, Azucena;;Dealessi, Pierina;Puerto Madero
+-34.624.435;-5.843.037.660.000.000;080 - DOBLAS;80;16.0;Doblas 608;Doblas;608.0;Valle;Caballito
+-346.078.917;-584.263.947;082 - HOSPITAL ITALIANO;82;20.0;Rawson 394;Rawson;394.0;Potosi;Almagro
+-34.603.269;-583.893.728;083 - Paraná;83;20.0;Lavalle 1590;Lavalle;1590.0;;San Nicolas
+-34.602.320.299.999.900;-58.395.514.399.999.900;084 - Lavalle;84;20.0;Ayacucho 595;Ayacucho;595.0;;Balvanera
+-345.948.057;-584.091.784;085 - AGUERO;85;20.0;Aguero y Mansilla, Lucio Norberto, General;Aguero;;Mansilla, Lucio Norberto, General;Recoleta
+-346.212.681;-58.401.680.799.999.900;086 - SAAVEDRA;86;20.0;Saavedra 1019;Saavedra;1019.0;;San Cristobal
+-34.619.845;-584.314.942;087 - Guayaquil;87;16.0;Guayaquil y Doblas;Guayaquil;;Doblas;Caballito
+-34.612.575;-5.840.435.600.000.000;088 - MISIONES;88;20.0;Misiones 209;Misiones;209.0;;Balvanera
+-345.825.475;-58.405.667.099.999.900;089 - Cabello;89;20.0;Cabello 3082;Cabello;3082.0;;Palermo
+-345.866.324;-5.839.987.489.999.990;090 - GUTIERREZ;90;20.0;Gutierrez, Juan Maria 2685;Gutierrez, Juan Maria;2685.0;Aguero;Recoleta
+-346.174.482;-58.397.602;091 - Pasco;91;20.0;Pasco 708;Pasco;708.0;Chile;Balvanera
+-346.316.444;-5.840.533.860.000.000;092 - Salcedo;92;20.0;Salcedo 2908;Salcedo;2908.0;Dean Funes;Parque Patricios
+-34.620.798;-583.944.635;093 - CARLOS CALVO;93;20.0;Sarandi 1010;Sarandi;1010.0;;San Cristobal
+-34.591.511;-58.449.652;094 - GÚZMAN;94;30.0;Guzman 129;Guzman;129.0;Leiva;Chacarita
+-3.460.211.210.000.000;-5.837.816.779.999.990;095 - ESMERALDA;95;16.0;Esmeralda 516;Esmeralda;516.0;;San Nicolas
+-346.027.814;-584.116.586;096 - Carlos Gardel;96;20.0;Guardia Vieja 3302;Guardia Vieja;3302.0;Aguero;Balvanera
+-346.117.981;-5.837.847.170.000.000;098 - Moreno;98;16.0;Moreno 838;Moreno;838.0;Tacuari;Monserrat
+-34.596.096.100.000.000;-58.435.407.999.999.900;099 - Malabia;99;20.0;Malabia 780;Malabia;780.0;Loyola;Villa Crespo
+-345.891.857;-584.424.397;101 - Fitz Roy;101;20.0;Fitz Roy 1092;Fitz Roy;1092.0;Loyola;Chacarita
+-345.864.287;-58.445.819.900.000.000;102 - ROSETI;102;12.0;Roseti 50;Roseti;50.0;Dorrego Av.;Chacarita
+-34.587.617;-58.455.212;104 - Federico Lacroze;104;30.0;Guzman Av. 1100;Guzman Av.;1100.0;Corrientes Av.;Chacarita
+-346.340.844;-584.008.662;105 - 15 DE NOVIEMBRE;105;15.0;15 De Noviembre De 1889 2687; De Noviembre De;2687.0;Catamarca;Parque Patricios
+-346.152.509;-583.958.827;106 - RINCÓN;106;20.0;Republica Bolivariana De Venezuela 2091;Republica Bolivariana De Venezuela;2091.0;;Balvanera
+-34.630.374;-5.839.585.200.000.000;107 - HOSPITAL GARRAHAN;107;16.0;Brasil y Pichincha Av.;Brasil;;Pichincha Av.;Parque Patricios
+-34.601.738;-58.415.434;110 - Guardia Vieja;110;20.0;Guardia Vieja 3500;Guardia Vieja;3500.0;;Almagro
+-34.605.487.700.000.000;-58.364.685.800.000.000;111 - MACACHA GUEMES;111;30.0;111 - MACACHA GUEMES, CABA;Macacha Guemes;350.0;Dealessi, Pierina;Puerto Madero
+-34.612.075;-58.380.384;112 - 9 de Julio;112;16.0;Irigoyen, Bernardo De 320;Irigoyen, Bernardo De;320.0;;Monserrat
+-345.949.745;-583.722.554;114 - DELLA PAOLERA;114;30.0;Della Paolera, Carlos M. 297;Della Paolera, Carlos M.;297.0;Alem, Leandro N. Av.;Retiro
+-34.587.800.099.999.900;-5.839.083.620.000.000;115 - QUINTANA;115;16.0;Quintana, Manuel, Pres. Av. 600;Quintana, Manuel, Pres. Av.;600.0;Haedo, Eduardo V., Pres.;Recoleta
+-345.921.708;-584.025.894;116 - HOSPITAL ALEMÁN;116;12.0;Beruti y Ecuador;Beruti;;Ecuador;Recoleta
+-346.201.008;-583.741.759;117 - HUMBERTO 1°;117;16.0;Peru 1016;Peru;1016.0;;San Telmo
+-346.170.196;-58.402.653.099.999.900;118 - MEXICO;118;20.0;Saavedra y Mexico;Saavedra;;Mexico;Balvanera
+-345.885.608;-58.397.329.299.999.900;119 - EMILIO MITRE;119;20.0;Pacheco De Melo, Jose Andres y Larrea;Pacheco De Melo, Jose Andres;;Larrea;Recoleta
+-34.617.509.000.000.000;-58.409.287.600.000.000;120 - HOSPITAL RAMOS MEJIA;120;20.0;Agrelo 3084;Agrelo;3084.0;;Balvanera
+-34.601.173.200.000.000;-584.285.093;121 - YATAY;121;20.0;Yatay 925;Yatay;925.0;Humahuaca;Almagro
+-345.916.569;-584.204.199;122 - COSTA RICA;122;20.0;Costa Rica 4090;Costa Rica;4090.0;;Palermo
+-34.580.538;-58.411.965;124 - UGARTECHE;124;20.0;Ugarteche 3050;Ugarteche;3050.0;;Palermo
+-34.640.267.200.000.000;-583.692.243;126 - MINISTERIO DE JUSTICIA  Y SEGURIDAD;126;16.0;Regimiento De Patricios Av. y Araoz De Lamadrid, Gregorio, Gral.;Regimiento De Patricios Av.;;Araoz De Lamadrid, Gregorio, Gral.;Boca
+-345.923.884;-58.453.077;127 - SANTOS DUMONT Y OTERO;127;16.0;Dumont, Santos 4392;Dumont, Santos;4392.0;Otero;Chacarita
+-346.041.138;-583.689.118;128 - PARQUE DEL BAJO;128;20.0;Madero, Eduardo Av. y Peron, Juan Domingo, Tte. General;Madero, Eduardo Av.;;Peron, Juan Domingo, Tte. General;San Nicolas
+-34.592.105.600.000.000;-583.745.419;130 - RETIRO II;130;40.0;Avenida Doctor Jos� Mar�a Ramos Mej�a 115;Ramos Mejia, Av Dr Jose Maria Vargas;;Del Libertador Av.;Retiro
+-3.459.840.429.999.990;-58.399.015.799.999.900;131- HOSPITAL DE CLÍNICAS;131;16.0;131- HOSPITAL DE CL�NICAS, C1121 ABI, Buenos Aires;Uriburu Jose E., Pres.;;Paraguay;Recoleta
+-346.033.685;-58.372.763;132 - CORRIENTES;132;12.0;Reconquista y Corrientes Av.;Reconquista;;Corrientes Av.;San Nicolas
+-346.118.013;-584.150.532;134 - DON BOSCO;134;20.0;Don Bosco 3490;Don Bosco;3490.0;;Almagro
+-345.972.818;-583.787.856;135 - MARCELO T. DE ALVEAR;135;20.0;Esmeralda 902;Esmeralda;902.0;;San Nicolas
+-346.155.977;-58.367.492.299.999.900;137 - AZOPARDO Y CHILE;137;20.0;Azopardo 700;Azopardo;700.0;;Monserrat
+-346.353.595;-5.838.767.239.999.990;138 - Hospital Britanico;138;12.0;Perdriel 153;Perdriel;153.0;;Barracas
+-346.115.231;-583.904.968;141 - SOLIS Y ALSINA;141;20.0;Solis 225;Solis;225.0;;Monserrat
+-34.604.709;-58.415.806.999.999.900;143 - BILLINGHURST Y VALENTÍN GOMEZ;143;20.0;Billinghurst 455;Billinghurst;455.0;Gomez, Valentin;Almagro
+-346.018.744;-584.060.944;144 - PUEYRREDÓN;144;20.0;Boulogne Sur Mer 684;Boulogne Sur Mer;684.0;Tucuman;Balvanera
+-346.221.118;-584.078.419;146 - HOSPITAL FRANCES;146;20.0;Calvo, Carlos 3024;Calvo, Carlos;3024.0;;San Cristobal
+-346.443.615;-584.846.764;323 - Parque Avellaneda II;148;28.0;Directorio Av. y Olivera Av.;Directorio Av.;;Olivera Av.;Parque Avellaneda
+-346.153.266;-583.813.642;149 - LIMA;149;16.0;Mexico y Lima;Mexico;;Lima;Monserrat
+-34.618.100.299.999.900;-58.363.138.899.999.900;150 - VERA PEÑALOZA;150;30.0;Vera Peñaloza,  Rosario y Cossettini, Olga;Vera Peñaloza,  Rosario;;Cossettini, Olga;Puerto Madero
+-346.118.145;-58.361.284.999.999.900;151 - AIME PAINÉ;151;24.0;Villaflor, Azucena y Paine, Aime;Villaflor, Azucena;;Paine, Aime;Puerto Madero
+-346.181.645;-583.596.311;152 - JULIETA LANTERI;152;20.0;Vera Peñaloza,  Rosario 599;Vera Peñaloza,  Rosario;599.0;Lanteri Julieta;Puerto Madero
+-346.307.765;-583.620.701;153 - JUAN MANUEL DE BLANES;153;16.0;Blanes, Juan Manuel 383;Blanes, Juan Manuel;383.0;;Boca
+-346.005.484;-58.412.284.899.999.900;154 - GALLO;154;20.0;Gallo 789;Gallo;789.0;;Almagro
+-34.640.961.700.000.000;-58.412.560.600.000.000;155 - PARQUE JOSE EVARISTO URIBURU;155;20.0;Almafuerte Av. 300;Almafuerte Av.;300.0;Los Patos;Nueva Pompeya
+-345.775.895;-584.074.696;156 - Plaza Alemania;156;20.0;Cavia 2939;Cavia;2939.0;;Palermo
+-34.592.735;-5.844.506.970.000.000;158 - VILLARROEL;158;20.0;Villarroel 1321;Villarroel;1321.0;Humboldt;Chacarita
+-346.020.779;-58.419.676.100.000.000;161 - Humahuaca;161;20.0;Humahuaca 3912;Humahuaca;3912.0;;Almagro
+-34.608.985;-58.401.924;162 - LARREA Y BARTOLOMÉ MITRE;162;20.0;Larrea 80;Larrea;80.0;;Balvanera
+-346.095.663;-58.406.430.799.999.900;163 - ONCE II;163;30.0;Mitre, Bartolome y Pueyrredon Av.;Mitre, Bartolome;;Pueyrredon Av.;Balvanera
+-346.181.442;-58.366.902.100.000.000;164 - FACULTAD DE INGENERIA;164;20.0;Estados Unidos 21;Estados Unidos;21.0;;San Telmo
+-34.597.048;-58.407.614;165 - PLAZA MONSEÑOR MIGUEL DE ANDREA;165;12.0;Anchorena, Tomas Manuel De, Dr. y Cabrera, Jose A.;Anchorena, Tomas Manuel De, Dr.;;Cabrera, Jose A.;Recoleta
+-3.458.918.970.000.000;-58.393.250.699.999.900;166 - Cementerio de Recoleta;166;20.0;Lopez, Vicente 2000;Lopez, Vicente;2000.0;;Recoleta
+-346.070.594;-584.485.709;275 - PLAZA 24 DE SEPTIEMBRE;167;16.0;San Martin Av. 1355;San Martin Av.;1355.0;;Villa Crespo
+-346.186.217;-58.381.227.100.000.000;168 - Estados Unidos;168;16.0;Estados Unidos y Lima;Estados Unidos;;Lima;Constitucion
+-34.611.875;-58.411.887;169 - FACULTAD DE PSICOLOGIA;169;12.0;Yrigoyen, Hipolito y 24 De Noviembre;Yrigoyen, Hipolito;;24 De Noviembre;Balvanera
+-34.599.664.399.999.900;-5.840.610.229.999.990;170 - SAN LUIS Y ECUADOR;170;20.0;San Luis 2862;San Luis;2862.0;Ecuador;Balvanera
+-346.032.813;-58.399.755.299.999.900;171 - Pasteur;171;20.0;Pasteur 519;Pasteur;519.0;;Balvanera
+-34.625.426.000.000.000;-58.371.081.999.999.900;172 - BRASIL;172;16.0;Brasil y Defensa;Brasil;;Defensa;San Telmo
+-346.222.964;-5.837.516.070.000.000;173 - PLAZA CECILIA GRIERSON;173;16.0;San Juan Av. 632;San Juan Av.;632.0;;San Telmo
+-34.597.225;-58.391.768.000.000.000;174 - MINISTERIO DE EDUCACION;174;16.0;Alvear, Marcelo T. De y Rodriguez Peña;Alvear, Marcelo T. De;;Rodriguez Peña;Recoleta
+-346.267.408;-5.838.093.489.999.990;147 - Constitución;175;36.0;Garay, Juan De Av. 1050;Garay, Juan De Av.;1050.0;;Constitucion
+-34.634.187.299.999.900;-583.611.029;176 - PINZÓN Y MARTÍN RODRIGUEZ;176;20.0;Pinzon 469;Pinzon;469.0;;Boca
+-34.568.015.100.000.000;-5.841.208;177 -PLANETARIO;177;12.0;Sarmiento Av. 3866;Sarmiento Av.;3866.0;;Palermo
+-34.638.989;-583.605.313;179 - LA BOCA;179;20.0;Don Pedro De Mendoza Av. 1819;Don Pedro De Mendoza Av.;1819.0;Palos;Boca
+-34.619.775;-58.420.492;180 - CASTRO Y MEXICO;180;20.0;Castro 680;Castro;680.0;Mexico;Almagro
+-345.927.221;-584.120.394;181 - BILLINGHURST Y MANSILLA;181;20.0;Billinghurst 1533;Billinghurst;1533.0;Mansilla, Lucio Norberto, General;Recoleta
+-345.780.479;-584.352.466;182 - RAVIGNANI Y GUATEMALA;182;20.0;Ravignani, Emilio, Dr. 2185;Ravignani, Emilio, Dr.;2185.0;Guatemala;Palermo
+-34.615.699.400.000.000;-583.899.728;183 - VIRREY CEVALLOS;183;20.0;Mexico 1652;Mexico;1652.0;;Monserrat
+-346.306.129;-583.913.419;184 - Pedro Echague;184;20.0;Echague, Pedro 1878;Echague, Pedro;1878.0;Combate De Los Pozos;Parque Patricios
+-3.463.133;-58.421.769.999.999.900;185 - AV. PAVÓN Y 33 ORIENTALES;185;12.0;Treinta y Tres Orientales 1400;Treinta Y Tres Orientales;1400.0;;Boedo
+-346.136.356;-5.840.644.150.000.000;186 - MANZANA 66;186;20.0;Moreno 2875;Moreno;2875.0;;Balvanera
+-345.528.626;-5.845.085.400.000.000;261 - QUINTEROS LIDORO;187;16.0;Quinteros, Lidoro J. Av. 1483;Quinteros, Lidoro J. Av.;1483.0;;Belgrano
+-34.623.923;-583.904.814;373 - Jorgelina De Simone;188;20.0;Cochabamba 1755;Cochabamba;1755.0;;Constitucion
+-34.588.688.899.999.900;-583.852.113;189 - POSADAS;189;20.0;Posadas 1350;Posadas;1350.0;;Retiro
+-345.850.763;-5.841.111.360.000.000;190 - JUNCAL;190;20.0;Juncal y Salguero, Jeronimo;Juncal;;Salguero, Jeronimo;Palermo
+-346.079.305;-583.808.358;191 - Rivadavia y 9 de Julio;191;16.0;Pellegrini, Carlos y Rivadavia Av.;Pellegrini, Carlos;;Rivadavia Av.;San Nicolas
+-345.972.773;-583.855.748;192 - Talcahuano;192;20.0;Talcahuano 990;Talcahuano;990.0;;Retiro
+-345.908.626;-584.061.652;193 - ARENALES Y AGUERO;193;20.0;Arenales y Aguero;Arenales;;Aguero;Recoleta
+-346.060.758;-584.224.635;194 - PERÓN Y ACUÑA DE FIGUEROA;194;16.0;Peron, Juan Domingo, Tte. General 3997;Peron, Juan Domingo, Tte. General;3997.0;;Almagro
+-346.260.785;-58.407.389;357 - PLAZA MARTIN FIERRO;195;20.0;La Rioja y Cochabamba;La Rioja;;Cochabamba;San Cristobal
+-346.275.351;-583.657.211;196 - HOSPITAL ARGERICH;196;20.0;Pi y Margall 750;Pi Y Margall;750.0;Necochea;Boca
+-34.622.260.100.000.000;-584.160.137;199 - ESTADOS UNIDOS Y BOEDO;199;20.0;Estados Unidos 3568;Estados Unidos;3568.0;Boedo Av.;Boedo
+-345.883.282;-584.038.684;200 - AUSTRIA Y FRENCH;200;20.0;Austria 2080;Austria;2080.0;;Recoleta
+-346.034.449;-5.837.816.700.000.000;175 - Esmeralda y Corrientes;201;20.0;Esmeralda y Corrientes Av.;Esmeralda;;Corrientes Av.;San Nicolas
+-34.583.811;-58.390.967;001 - FACULTAD DE DERECHO;202;30.0;Figueroa Alcorta, Pres. Av. 2120;Figueroa Alcorta, Pres. Av.;2120.0;;Recoleta
+-34.628.511;-5.835.600.400.000.000;108 - Usina del Arte;203;24.0;Caffarena, Agustin R. y Don Pedro De Mendoza Av.;Caffarena, Agustin R.;;Don Pedro De Mendoza Av.;Boca
+-346.148.209;-584.278.453;167 - Hipólito Yrigoyen;204;24.0;Yrigoyen, Hipolito Av. 4300;Yrigoyen, Hipolito Av.;4300.0;;Almagro
+-34.583.273.299.999.900;-58.427.956.200.000.000;125 - F.J.Santamaria de Oro;205;16.0;Fray Justo Santamaria De Oro y Guatemala;Fray Justo Santamaria De Oro;;Guatemala;Palermo
+-345.849.119;-584.372.524;159 - Fitz Roy & Gorriti;206;16.0;Fitz Roy y Gorriti;Fitz Roy;;Gorriti;Palermo
+-345.852.485;-58.420.906;123 - Armenia;207;20.0;Armenia 2315;Armenia;2315.0;Charcas;Palermo
+-3.458.047.020.000.000;-5.843.799.250.000.000;145 - RAVIGNANI;208;20.0;Ravignani, Emilio, Dr. y Costa Rica;Ravignani, Emilio, Dr.;;Costa Rica;Palermo
+-34.572.132;-584.113.228;335 - General Urquiza;210;20.0;Figueroa Alcorta, Pres. Av. y Sarmiento Av.;Figueroa Alcorta, Pres. Av.;;Sarmiento Av.;Palermo
+-346.266.267;-583.879.696;195 - Plaza Garay;211;20.0;Garay, Juan De Av. y Saenz Peña, Luis, Pres.;Garay, Juan De Av.;;Saenz Peña, Luis, Pres.;Constitucion
+-34.600.164;-58.434.982.999.999.900;129 - Velasco;212;20.0;Ramirez De Velasco, Juan 285;Ramirez De Velasco, Juan;285.0;;Villa Crespo
+-345.995.649;-58.442.536.200.000.000;136 - Acevedo;213;20.0;Acevedo 220;Acevedo;220.0;Padilla;Villa Crespo
+-345.905.808;-58.428.962.399.999.900;142 - Armenia y Gorriti;214;16.0;Armenia 1525;Armenia;1525.0;Gorriti;Palermo
+-34.585.884.300.000.000;-584.251.226;113 - Guatemala;215;20.0;Guatemala 4773;Guatemala;4773.0;;Palermo
+-345.900.976;-584.114.907;059 - Coronel Diaz;216;20.0;Guemes 3330;Guemes;3330.0;Diaz, Cnel. Av.;Palermo
+-346.342.818;-5.840.421.230.000.000;198 - HOSPITAL SARDÁ;217;16.0;Castillo, Catulo y Dean Funes;Castillo, Catulo;;Dean Funes;Parque Patricios
+-34.638.523;-58.425.464;067 - Senillosa;218;16.0;Senillosa 1905;Senillosa;1905.0;Zañartu;Parque Chacabuco
+-34.635.173.200.000.000;-58.415.703.500.000.000;140 - Las Casas;219;16.0;Las Casas 3587;Las Casas;3587.0;;Boedo
+-34.635.471.700.000.000;-584.279.173;097 - Avelino Diaz;220;16.0;Diaz, Avelino y Doblas;Diaz, Avelino;;Doblas;Parque Chacabuco
+-346.280.441;-5.842.740.420.000.000;157 - Senillosa y Zuviria;221;20.0;Senillosa 989;Senillosa;989.0;Zuviria;Parque Chacabuco
+-345.727.715;-584.206.642;160 - Godoy Cruz y Libertador;222;20.0;Godoy Cruz 3279;Godoy Cruz;3279.0;Del Libertador Av.;Palermo
+-34.623.456;-5.842.489.499.999.990;178 - José Marmol;223;16.0;Marmol, Jose 803;Marmol, Jose;803.0;;Boedo
+-345.808.537;-58.434.484;133 - Nicaragua;224;20.0;Nicaragua y Bonpland;Nicaragua;;Bonpland;Palermo
+-345.968.511;-584.295.184;109 - Lerma;225;20.0;Lerma 175;Lerma;175.0;Bonpland;Villa Crespo
+-34.633.334.999.999.900;-5.841.322.629.999.990;139 - Virrey Liniers;226;20.0;Salcedo 3408;Salcedo;3408.0;Liniers Virrey;Boedo
+-346.105.021;-584.327.935;188 - Aranguren;227;20.0;Aranguren, Juan F., Dr. 137;Aranguren, Juan F., Dr.;137.0;Portugal;Caballito
+-346.162.819;-58.365.744.400.000.000;010 - Madero UCA;228;20.0;Moreau De Justo, Alicia Av. 1600;Moreau De Justo, Alicia Av.;1600.0;;Puerto Madero
+-345.813.811;-584.514.575;243 - PLAZOLETA CELEDONIO FLORES;229;12.0;Cordoba 6599;Cordoba;6599.0;;Chacarita
+-345.678.255;-584.645.037;259 - PLAZA CASTELLI;230;16.0;Echeverria 3249;Echeverria;3249.0;;Belgrano
+-346.051.305;-58.445.839.799.999.900;384 - PLAZA BENITO NAZAR;231;16.0;Virasoro, Valentin y Figueroa, D. Apolinario, Coronel;Virasoro, Valentin;;Figueroa, D. Apolinario, Coronel;Villa Crespo
+-345.599.395;-584.788.904;252 - Tamborini;232;20.0;Tamborini, Jose Pascual 3821;Tamborini, Jose Pascual;3821.0;;Coghlan
+-34.553.976.500.000.000;-5.843.603.670.000.000;389 - Plaza República De Mexico;233;24.0;La Pampa 693;La Pampa;693.0;;Belgrano
+-345.483.593;-58.447.567.299.999.900;344 - UNIVERSIDAD DI TELLA;234;20.0;Saenz Valiente, Juan Pablo 1001;Saenz Valiente, Juan Pablo;1001.0;;Belgrano
+-345.737.764;-584.868.051;281 - JUAN MANUEL DE ROSAS;235;24.0;Triunvirato Av. y Roosevelt Franklin D. Av.;Triunvirato Av.;;Roosevelt Franklin D. Av.;Villa Urquiza
+-345.623.422;-58.455.048.399.999.900;254 - Plaza Rafael Hernandez;236;16.0;Vuelta De Obligado 2004;Vuelta De Obligado;2004.0;;Belgrano
+-34.636.581.400.000.000;-5.843.670.110.000.000;217 - CACHIMAYO;238;24.0;Cachimayo 1489;Cachimayo;1489.0;;Parque Chacabuco
+-34.565.008.899.999.900;-584.201.625;391 - Plaza República de Ecuador;239;20.0;Figueroa Alcorta, Pres. Av. y Dorrego Av.;Figueroa Alcorta, Pres. Av.;;Dorrego Av.;Palermo
+-34.558.137;-58.465.559;239 - Vidal;240;24.0;Vidal 2799;Vidal;2799.0;;Belgrano
+-34.600.874;-58.494.122.999.999.900;348 - Villa del Parque;241;12.0;Gutierrez, Ricardo 3105;Gutierrez, Ricardo;3105.0;;Villa Del Parque
+-345.771.741;-584.032.162;103 - MALBA;242;20.0;San Martin De Tours 3051;San Martin De Tours;3051.0;;Palermo
+-345.874.735;-584.842.469;266 - Plaza Alfredo Nobel;244;20.0;Hamburgo 3310;Hamburgo;3310.0;;Parque Chas
+-345.522.044;-584.431.506;248 - Husares;245;16.0;Husares 2201;Husares;2201.0;;Belgrano
+-34.554.326;-5.843.892.560.000.000;338 - Sucre y Dragones;246;16.0;Sucre, Antonio Jose De, Mcal. 877;Sucre, Antonio Jose De, Mcal.;877.0;Dragones;Belgrano
+-345.839.895;-584.666.304;282 - Tronador;247;18.0;Triunvirato Av. y Tronador;Triunvirato Av.;;Tronador;Villa Ortuzar
+-345.738.411;-584.742.812;346 - Plaza Zapiola;248;20.0;Donado 2001;Donado;2001.0;;Villa Urquiza
+-34.649.843;-58.388.562;307 - LEONARDO PEREYRA;249;16.0;California 2990;California;2990.0;;Barracas
+-346.526.797;-58.377.215;366 - Plaza Diaz Velez;250;16.0;Cruz, Osvaldo Av. y San Antonio;Cruz, Osvaldo Av.;;San Antonio;Barracas
+-346.446.224;-58.409.772;388 - Plaza Jose C Paz;251;20.0;Pepiri y Paz, Jose C.;Pepiri;;Paz, Jose C.;Parque Patricios
+-3.464.451.629.999.990;-583.762.137;331 - PLAZA HERRERA;252;16.0;Herrera y Quinquela Martin, Benito;Herrera;;Quinquela Martin, Benito;Barracas
+-346.172.808;-584.167.728;383 - Boedo & Venezuela;253;20.0;Boedo Av. y Republica Bolivariana De Venezuela;Boedo Av.;;Republica Bolivariana De Venezuela;Almagro
+-346.206.836;-584.415.718;276 - PRIMERA JUNTA;254;16.0;Rivadavia Av. y Barco Centenera Del;Rivadavia Av.;;Barco Centenera Del;Caballito
+-346.221.889;-5.844.855;374 - Puan;255;16.0;Yerbal 1290;Yerbal;1290.0;;Caballito
+-34.610.398;-58.454.304;209 - PAYSANDU;256;20.0;Paysandu 1182;Paysandu;1182.0;;Caballito
+-34.570.829;-58.481.232.999.999.900;264 - Plaza Marcos Sastre;257;24.0;Miller y Monroe;Miller;;Monroe;Villa Urquiza
+-3.456.559.179.999.990;-58.455.483.799.999.900;336 - La Pampa;258;16.0;La Pampa 2250;La Pampa;2250.0;Ciudad De La Paz;Belgrano
+-345.580.469;-584.434.052;290 - Club Excursionistas;259;16.0;Miñones 1818;Miñones;1818.0;;Belgrano
+-34.550.961;-584.381.142;371 - Paseo de las Americas;260;18.0;Juramento 646;Juramento;646.0;;Belgrano
+-34.616.207;-584.406.995;272 - Plaza Bruno Giordano;261;16.0;Bruno, Giordano y Neuquen;Bruno, Giordano;;Neuquen;Caballito
+-3.460.962;-584.673.963;349 - Plaza Saenz Peña;262;16.0;Lamas, Andres y Escalada De San Martin, R.;Lamas, Andres;;Escalada De San Martin, R.;Villa General Mitre
+-346.217.948;-58.457.527.899.999.900;270 - PLAZA DEL ANGEL GRIS;263;12.0;Calcena y Avellaneda Av.;Calcena;;Avellaneda Av.;Flores
+-345.559.308;-584.812.325;283 - CNEL. JUAN CRUZ CZETZ;264;16.0;Balbin, Ricardo, Dr. Av. y Larralde, Crisologo Av.;Balbin, Ricardo, Dr. Av.;;Larralde, Crisologo Av.;Saavedra
+-346.418.833;-58.450.658;361 - Plaza Don Segundo Sombra;265;16.0;Santander 2347;Santander;2347.0;;Flores
+-346.601.336;-5.842.872.020.000.000;379 - BERG;266;16.0;Berg, Carlos 3402;Berg, Carlos;3402.0;;Villa Soldati
+-34.629.651.200.000.000;-584.835.484;353 - PLAZA VELEZ SARSFIELD;267;12.0;Chivilcoy y Avellaneda Av.;Chivilcoy;;Avellaneda Av.;Floresta
+-345.500.734;-58.476.643;399 - GARCIA DEL RIO;268;28.0;Garcia Del Rio y Pinto;Garcia Del Rio;;Pinto;Saavedra
+-34.577.296.000.000.000;-5.845.785.400.000.000;260 - SAN MIGUEL DE GARICOITS;269;18.0;Delgado y Loreto, Virrey;Delgado;;Loreto, Virrey;Colegiales
+-34.640.114.000.000.000;-5.843.026;370 - Beauchef;270;16.0;Beauchef 1995;Beauchef;1995.0;;Parque Chacabuco
+-3.463.008;-5.847.426;365 - Venancio Flores;271;20.0;Argerich y Flores, Venancio, Gral.;Argerich;;Flores, Venancio, Gral.;Flores
+-345.883.744;-5.846.686.510.000.000;347 - PLAZA MALAVER;272;20.0;Heredia 328;Heredia;328.0;;Villa Ortuzar
+-3.461.668;-584.466.674;223 - GAINZA;273;16.0;Gainza, Martin De, Gral. 494;Gainza, Martin De, Gral.;494.0;;Caballito
+-345.563.511;-584.630.428;369 - Ciudad De La Paz;274;24.0;Ciudad De La Paz 2816;Ciudad De La Paz;2816.0;;Belgrano
+-345.619.095;-5.845.857.289.999.990;256 - PLAZA NORUEGA;275;20.0;Ciudad De La Paz y Mendoza;Ciudad De La Paz;;Mendoza;Belgrano
+-34.559.476.000.000.000;-584.699.652;296 - FREIRE;276;16.0;Freire, Ramon, Cap. Gral. 2899;Freire, Ramon, Cap. Gral.;2899.0;;Coghlan
+-345.634.645;-5.843.603.670.000.000;292 - PLAZA BOLIVIA;277;12.0;Olleros Av. y Del Libertador Av.;Olleros Av.;;Del Libertador Av.;Palermo
+-34.564.083.000.000.000;-58.469.789;233 - MONROE;278;16.0;Superi 2519;Superi;2519.0;;Coghlan
+-346.074.177;-58.404.785.399.999.900;325 - CASTELLI Y PERON;279;20.0;Castelli y Peron, Juan Domingo, Tte. General;Castelli;;Peron, Juan Domingo, Tte. General;Balvanera
+-34.633.311.299.999.900;-584.494.755;222 - SIMON BOLIVAR;280;24.0;Fernandez Moreno, Baldomero 1701;Fernandez Moreno, Baldomero;1701.0;;Parque Chacabuco
+-346.138.773;-5.845.837.420.000.000;350 - Plaza Irlanda;281;16.0;Gaona Av. 2200;Gaona Av.;2200.0;;Caballito
+-345.699.743;-584.562.794;332 - PLAZOLETA PORTUGAL;282;20.0;Aviles, Virrey y Cramer;Aviles, Virrey;;Cramer;Colegiales
+-346.355.054;-58.456.035;228 - BALDOMERO;283;20.0;Fernandez Moreno, Baldomero 2289;Fernandez Moreno, Baldomero;2289.0;;Flores
+-346.311.092;-58.435.094.299.999.900;229 - RIGLOS;284;20.0;Riglos 1019;Riglos;1019.0;;Parque Chacabuco
+-34.617.212.200.000.000;-58.356.175.199.999.900;400 - Reserva Ecologica;285;20.0;Achaval Rodriguez, T., Dr. Av. 1520;Achaval Rodriguez, T., Dr. Av.;1520.0;;Puerto Madero
+-346.304.712;-5.845.511.120.000.000;284 - BONIFACIO Y CARABOBO;286;16.0;Bonifacio, Jose 1913;Bonifacio, Jose;1913.0;;Flores
+-346.103.343;-5.844.091.829.999.990;299 - HIDALGO;287;20.0;Hidalgo 796;Hidalgo;796.0;;Caballito
+-346.404.886;-584.429.517;333 - MIRO;288;20.0;Miro 1684;Miro;1684.0;;Parque Chacabuco
+-34.559.793.400.000.000;-584.484.316;255 - BARRANCAS DE BELGRANO;289;24.0;Sucre, Antonio Jose De, Mcal. y Vertiz Virrey Av.;Sucre, Antonio Jose De, Mcal.;;Vertiz Virrey Av.;Belgrano
+-346.186.003;-584.456.027;224 - FERROCARRIL OESTE;290;20.0;Garcia Lorca, Federico 280;Garcia Lorca, Federico;280.0;;Caballito
+-34.616.985;-58.381.620.999.999.900;244 - UADE;291;16.0;Lima 750;Lima;750.0;;Monserrat
+-34.634.796;-58.378.108.999.999.900;355 - PLAZA RICARDO LLERAS;292;20.0;Samperio, Manuel J. y Herrera;Samperio, Manuel J.;;Herrera;Barracas
+-346.264.943;-5.843.244.050.000.000;294 - Bonifacio;293;16.0;Bonifacio, Jose 381;Bonifacio, Jose;381.0;;Caballito
+-345.458.835;-5.845.200.620.000.000;363 - Udaondo;294;20.0;Udaondo, Guillermo Av. 1185;Udaondo, Guillermo Av.;1185.0;;Nuñez
+-34.624.802;-5.843.768.299.999.990;392 - Calasanz;295;20.0;San Jose De Calasanz y Valle;San Jose De Calasanz;;Valle;Caballito
+-34.632.961;-58.462.547;293 - PEDERNERA;296;15.0;Pedernera 381;Pedernera;381.0;;Flores
+-34.640.978.000.000.000;-58.466.118;320 - QUIRNO;297;16.0;Quirno 781;Quirno;781.0;;Flores
+-34.634.443;-58.463.437;271 - Plazoleta 11 de Noviembre;298;16.0;Varela 401;Varela;401.0;;Flores
+-34.631.485.999.999.900;-5.846.629.300.000.000;221 - CULPINA;299;20.0;Culpina 121;Culpina;121.0;;Flores
+-34.651.391.700.000.000;-5.843.272.879.999.990;321 - PERITO MORENO;300;20.0;Fernandez De La Cruz, F., Gral. Av. y Erezcano;Fernandez De La Cruz, F., Gral. Av.;;Erezcano;Nueva Pompeya
+-34.644.841;-58.431.785;309 - HOMERO MANZI;301;20.0;Barco Centenera Del 2292;Barco Centenera Del;2292.0;;Nueva Pompeya
+-34.651.955;-58.415.423;340 - PLAZA NUEVA POMPEYA;302;16.0;Traful 3800;Traful;3800.0;;Nueva Pompeya
+-345.577.145;-58.462.687.100.000.000;238 - RIVERA;303;20.0;Rivera, Pedro I., Dr. 2583;Rivera, Pedro I., Dr.;2583.0;;Belgrano
+-34.589.409;-5.848.420.400.000.000;395 - Agronomia II;304;16.0;De Los Incas Av. y De Los Constituyentes Av.;De Los Incas Av.;;De Los Constituyentes Av.;Agronomia
+-34.612.684;-58.444.869.999.999.900;398 - Rojas;305;16.0;Rojas 731;Rojas;731.0;;Caballito
+-34.608.465;-5.845.585;380 - Paysandu y Galicia;306;20.0;Galicia 1220;Galicia;1220.0;;Caballito
+-346.451.626;-58.365.323;358 - Plaza Almirante Brown;307;18.0;Irala y California;Irala;;California;Boca
+-34.567.639;-58.436.847;251 - Solar de la Abadía;308;20.0;Maure 1819;Maure;1819.0;;Palermo
+-346.350.001;-58.367.059;298 - IRALA;309;20.0;Irala 695;Irala;695.0;;Barracas
+-3.463.819;-58.377.469.999.999.900;356 - Plaza Sergio Karakachoff;310;16.0;Brandsen y Herrera;Brandsen;;Herrera;Barracas
+-345.972.098;-5.847.421.143;213 - Hospital Alvear;311;20.0;Warnes Av. 2626;Warnes Av.;2626.0;;Flores
+-34.629.028.000.000.000;-584.769.111;311 - CONCORDIA;312;20.0;Bogota 3396;Bogota;3396.0;;Floresta
+-34.565.003.000.000.000;-584.449.536;291 - UNIVERSIDAD DE BELGRANO;313;20.0;Zabala 1920;Zabala;1920.0;;Palermo
+-3.461.047;-584.602.399;212 - SOR JUANA;314;16.0;Galicia 1630;Galicia;1630.0;;Caballito
+-34.605.638;-5.845.336.089.999.990;205 - SAN MARTIN;316;16.0;Cucha Cucha 1471;Cucha Cucha;1471.0;;Villa Crespo
+-345.797.368;-58.457.814.600.000.000;220 - GIRIBONE;317;20.0;Giribone 1101;Giribone;1101.0;;Chacarita
+-34.603.935;-58.457.319.999.999.900;285 - ESPINOSA;318;20.0;Espinosa 1785;Espinosa;1785.0;;Villa Crespo
+-346.036;-584.036;329 - PASO Y LAVALLE;319;20.0;Paso 486;Paso;486.0;;Balvanera
+-34.584.058;-58.440.073;364 - Carranza Y Gorriti;320;20.0;Carranza, Angel Justiniano 1501;Carranza, Angel Justiniano;1501.0;;Palermo
+-34.561.851.000.000.000;-58.444.754;246 - EDUARDO OLIVERA;321;16.0;Campos, Luis M. Av. 1631;Campos, Luis M. Av.;1631.0;;Belgrano
+-345.513.269;-584.541.858;289 - MONTAÑESES;322;20.0;Montañeses 2786;Montañeses;2786.0;;Belgrano
+-34.565.275;-58.459.401;240 - ECHEVERRIA;323;24.0;Vidal 1981;Vidal;1981.0;;Belgrano
+-34.578.933;-584.840.556;280 - JURAMENTO;324;16.0;Juramento 5209;Juramento;5209.0;;Villa Urquiza
+-34.645.252;-58.416.546.999.999.900;342 - SAENZ;325;16.0;Del Tigre 3935;Del Tigre;3935.0;;Nueva Pompeya
+-346.411.734;-5.842.022.660.000.000;343 - POMAR;326;20.0;Pomar, Gregorio Tte. Cnel. 4152;Pomar, Gregorio Tte. Cnel.;4152.0;;Nueva Pompeya
+-34.654.385.999.999.900;-5.841.992.800.000.000;341 - TILCARA;327;16.0;Tilcara 3318;Tilcara;3318.0;;Nueva Pompeya
+-345.931.053;-584.351.681;100 - Plaza Gurruchaga;329;20.0;Gurruchaga 1078;Gurruchaga;1078.0;;Villa Crespo
+-346.008;-58.47;148 - Paternal;330;16.0;12 De Octubre 1718; De Octubre;1718.0;;Paternal
+-34.602.133;-5.849.089.100.000.000;202 - Nogoya Y Argerich;332;16.0;Argerich 3018;Argerich;3018.0;;Villa Del Parque
+-34.600.433.200.000.000;-585.036.238;203 - Beiro;333;20.0;Beiro, Francisco Av. 3572;Beiro, Francisco Av.;3572.0;;Villa Del Parque
+-34.615.852.000.000.000;-58.470.907;206 - Galicia;335;20.0;Galicia 2502;Galicia;2502.0;;Villa General Mitre
+-34.599.917.299.999.900;-58.511.415.899.999.900;207 - PLAZA ARENALES;336;28.0;Nueva York y Chivilcoy Av.;Nueva York;;Chivilcoy Av.;Devoto
+-345.985;-584.613;208 - Segui;337;16.0;Segui, F. J., Alte. 2419;Segui, F. J., Alte.;2419.0;;Paternal
+-34.602.931;-58.479.420.999.999.900;210 - Terrero;338;16.0;Terrero 3211;Terrero;3211.0;;Villa Del Parque
+-3.461.938;-5.845.471;211 - ARANGUREN Y SEGUI;339;16.0;Aranguren, Juan F., Dr. 1608;Aranguren, Juan F., Dr.;1608.0;;Caballito
+-34.626.242;-5.846.732.900.000.000;214 - Flores;340;12.0;Bogota 2620;Bogota;2620.0;;Flores
+-346.142.336;-584.813.858;216 - Margariños Cervantes y Argerich;341;16.0;Magariños Cervantes, A. 3011;Magariños Cervantes, A.;3011.0;;Villa Santa Rita
+-34.616.813;-58.484.297;218 - Campana;342;20.0;Campana 1523;Campana;1523.0;;Villa Santa Rita
+-34.635.727.200.000.000;-584.411.639;219 - Parque Chacabuco II;343;20.0;Asamblea Av. y Faraday;Asamblea Av.;;Faraday;Parque Chacabuco
+-34.594.776.200.000.000;-584.750.615;226 - Parque La Paternal;345;20.0;Zabala, Joaquin, Dr. y Chorroarin Av.;Zabala, Joaquin, Dr.;;Chorroarin Av.;Caballito
+-345.834.356;-584.065.391;230 - Parque Las Heras II;347;20.0;Pacheco De Melo, Jose Andres 3120;Pacheco De Melo, Jose Andres;3120.0;;Palermo
+-34.610.482;-58.474.368.999.999.900;231 - Margariños Cervantes;348;16.0;Magariños Cervantes, A. 2465;Magariños Cervantes, A.;2465.0;;Villa General Mitre
+-34.570.894;-5.846.688.399.999.990;232 - Sucre y Martinez;349;20.0;Sucre, Antonio Jose De, Mcal. 3517;Sucre, Antonio Jose De, Mcal.;3517.0;;Belgrano
+-34.567.996;-58.485.145.499.999.900;234 - Valdenegro;350;20.0;Valdenegro 2831;Valdenegro;2831.0;;Villa Urquiza
+-345.717.033;-584.520.772;235 - Colegiales;351;16.0;Zabala 2825;Zabala;2825.0;;Colegiales
+-345.807.104;-584.248.291;236 - Guemes;352;28.0;Guemes 4718;Guemes;4718.0;;Palermo
+-345.986.779;-58.364.725.899.999.900;237 - Madero Office;353;20.0;Sanchez De Thompson, Mariquita 367;Sanchez De Thompson, Mariquita;367.0;;Puerto Madero
+-34.613.457.000.000.000;-584.401.581;241 - Sanatorio Mendez;354;20.0;Hidalgo 512;Hidalgo;512.0;;Caballito
+-34.567.504.799.999.900;-584.465.088;242 - Plazoleta Rafael del Riego;355;16.0;O'Higgins 1327;O'Higgins;1327.0;;Palermo
+-34.547.695.000.000.000;-584.584.684;245 - Arribeños;356;16.0;Arribeños 3229;Arribeños;3229.0;;Nuñez
+-3.456.154.650.000.000;-584.655.255;249 - Balbín;358;12.0;Conesa 2519;Conesa;2519.0;;Belgrano
+-34.555.654;-584.504.687;250 - Fleni;359;20.0;Montañeses 2292;Montañeses;2292.0;;Belgrano
+-34.569.146.999.999.900;-58.453.731.999.999.900;258 - Plaza J.J. Paso;361;20.0;Moldes 1399;Moldes;1399.0;;Colegiales
+-34.566.746;-58.479.108;262 - Holmberg;362;16.0;Holmberg 2725;Holmberg;2725.0;;Villa Urquiza
+-34.642.052;-5.846.205;354 - Plaza Tupac Amaru;363;28.0;Primera Junta 3101;Primera Junta;3101.0;;Flores
+-34.568.721.999.999.900;-5.843.438.100.000.000;381 - Matienzo Y Arce;364;24.0;Matienzo, Benjamin, Teniente 1798;Matienzo, Benjamin, Teniente;1798.0;;Palermo
+-34.635.402;-58.482.602;360 - Plaza Ramon Falcon;366;20.0;Falcon, Ramon L.,Cnel. 3991;Falcon, Ramon L.,Cnel.;3991.0;;Velez Sarfield
+-346.163.487;-58.477.241.799.999.900;287 - Belaustegui;367;16.0;Belaustegui, Luis, Dr. 2874;Belaustegui, Luis, Dr.;2874.0;;Villa Santa Rita
+-34.592.244;-58.491.797;304 - Navarro;369;20.0;Navarro 2625;Navarro;2625.0;;Agronomia
+-34.590.964;-58.500.336;305 - Plaza Martin Rodriguez;370;20.0;Pareja 3016;Pareja;3016.0;;Agronomia
+-3.463.281;-58.455.057.999.999.900;269 - Plaza De La Misericordia;371;16.0;Lautaro 493;Lautaro;493.0;;Flores
+-34.636.406;-58.470.136;322 - MARTÍ Y DIRECTORIO;372;12.0;Marti, Jose 404;Marti, Jose;404.0;;Flores
+-34.582.488.899.999.900;-58.481.028.599.999.900;265 - Plaza Exodo Jujeño;373;16.0;Liverpool 2812;Liverpool;2812.0;;Parque Chas
+-34.645.764;-584.573.968;367 - Mariano Castex;374;16.0;Alvarez, Crisostomo 2873;Alvarez, Crisostomo;2873.0;;Flores
+-346.050.537;-584.847.864;301 - Arregui Y Terrada;375;16.0;Arregui 2793;Arregui;2793.0;;Villa Del Parque
+-34.626.698;-58.487.135.200.000.000;324 - Las Victorias;376;20.0;Vallese, Felipe 4083;Vallese, Felipe;4083.0;;Floresta
+-34.607.333.000.000.000;-58.422.987;327 - ACUÑA DE FIGUEROA Y POTOSI;377;16.0;Acuña De Figueroa, Francisco 296;Acuña De Figueroa, Francisco;296.0;;Almagro
+-34.623.123;-58.468.287;215 - HOSPITAL ALVAREZ;378;20.0;Estado Plurinacional De Bolivia 683;Estado Plurinacional De Bolivia;683.0;;Flores
+-34.560.162;-58.428.163;390 - De Los Ombues;379;20.0;De Los Ombues Av. y Bello, Andres;De Los Ombues Av.;;Bello, Andres;Palermo
+-3.460.603.820.000.000;-5.846.481;319 - Cervantes y Trelles;380;20.0;Cervantes 1683;Cervantes;1683.0;;Villa General Mitre
+-346.153;-584.665.179;274 - Plaza Nuestra Señora de la Asuncion;381;16.0;Gavilan 1300;Gavilan;1300.0;;Villa General Mitre
+-34.605.452;-58.477.426;204 - Biarritz;382;16.0;Biarritz 2403;Biarritz;2403.0;;Villa Del Parque
+-34.571.621;-58.489.026;263 - Plaza Echeverria;383;20.0;Nahuel Huapi y Triunvirato Av.;Nahuel Huapi;;Triunvirato Av.;Villa Urquiza
+-34.579.734;-5.846.185.229.999.990;267 - Plaza 25 De Agosto;384;16.0;14 De Julio 1194; De Julio;1194.0;;Villa Ortuzar
+-346.061.187;-5.849.341.920.000.000;268 - Plaza Aristóbulo Del Valle;385;16.0;Campana y Sastre, Marcos;Campana;;Sastre, Marcos;Villa Del Parque
+-345.656.428;-58.475.512;277 - Coghlan;386;8.0;Estomba 2647;Estomba;2647.0;;Coghlan
+-346.019.716;-58.465.530.099.999.900;278 - Donato Alvarez;387;16.0;Garcia, Juan Agustin 1540;Garcia, Juan Agustin;1540.0;;Paternal
+-34.580.927;-5.848.455;279 - Andonaegui;388;20.0;Andonaegui 1902;Andonaegui;1902.0;;Villa Urquiza
+-3.462.795;-5.844.024;286 - OEA;389;20.0;Barco Centenera Del 741;Barco Centenera Del;741.0;;Caballito
+-34.547.758;-58.459.881;288- 11 de septiembre;390;28.0;11 De Septiembre De 1888 3314; De Septiembre De;3314.0;;Nuñez
+-345.508.944;-584.719.176;295 - Larralde;391;20.0;Vidal 3607;Vidal;3607.0;;Saavedra
+-34.554.754;-5.848.541.899.999.990;297 - TRONADOR Y GARCÍA DEL RÍO;392;16.0;Tronador y Garcia Del Rio;Tronador;;Garcia Del Rio;Coghlan
+-34.590.848;-58.468.534.999.999.900;300 - Jose Artigas;393;12.0;Balboa 524;Balboa;524.0;;Paternal
+-34.649.578.000.000.000;-58.462.646;302 - Plaza Jose Marti;394;20.0;Acosta, Mariano 1801;Acosta, Mariano;1801.0;;Flores
+-345.968.038;-5.845.356.870.000.000;303 - Huaura;395;16.0;Huaura 1474;Huaura;1474.0;;Villa Crespo
+-34.601.852;-58.448.011;306 - Tres Arroyos Y Olaya;396;20.0;Tres Arroyos 327;Tres Arroyos;327.0;;Villa Crespo
+-345.979.984;-584.856.262;308 - Artigas Y Melincue;397;12.0;Artigas, Jose Gervasio, Gral. y Melincue;Artigas, Jose Gervasio, Gral.;;Melincue;Villa Del Parque
+-3.457.618.170.000.000;-5.845.465.079.999.990;310 - Gregoria Perez;398;16.0;Perez, Gregoria 3314;Perez, Gregoria;3314.0;;Colegiales
+-346.340.414;-58.446.273;312 - Parque Chacabuco  I;399;20.0;Peron, Eva Av. y Achaval;Peron, Eva Av.;;Achaval;Parque Chacabuco
+-34.579.751;-58.471.003;313 - De Los Incas;400;16.0;Donado 1378;Donado;1378.0;;Villa Ortuzar
+-3.463.476.179.999.990;-584.795.922;314 - Ramón Falcon;401;20.0;Falcon, Ramon L.,Cnel. 3792;Falcon, Ramon L.,Cnel.;3792.0;;Floresta
+-34.597.612.100.000.000;-584.985.424;315 - BEIRO Y SAN MARTÍN;402;16.0;Beiro, Francisco Av. 3209;Beiro, Francisco Av.;3209.0;;Devoto
+-34.543.949;-584.408.983;317 - Cero Más Infinito;404;20.0;;;;;Belgrano
+-345.767.497;-58.468.977.100.000.000;318 - Plaza Y Carbajal;405;20.0;Plaza 1602;Plaza;1602.0;;Villa Ortuzar
+-346.009.283;-583.642.613;326 - Emma De La Barra;406;16.0;De La Barra,  Emma 301;De La Barra,  Emma;301.0;;Puerto Madero
+-346.429.977;-584.815.713;330 - Parque Avellaneda;407;28.0;Directorio Av. y Fernandez;Directorio Av.;;Fernandez;Parque Avellaneda
+-346.600.076;-584.683.699;337 - UTN;408;20.0;Mozart 2400;Mozart;2400.0;;Villa Lugano
+-34.654.801;-58.412.878.000.000.000;339 - AMANCIO ALCORTA;409;24.0;Alcorta, Amancio Av. 3805;Alcorta, Amancio Av.;3805.0;;Nueva Pompeya
+-3.463.858.079.999.990;-58.476.985.600.000.000;368 - Ensenada;411;12.0;Ensenada 413;Ensenada;413.0;;Floresta
+-346.626.285;-584.411.434;372 - Villa Soldati;412;16.0;Triana, Rodrigo De 3102;Triana, Rodrigo De;3102.0;;Villa Soldati
+-34.654.573.600.000.000;-58.379.346;382 - CMD;413;16.0;Algarrobo 1016;Algarrobo;1016.0;;Barracas
+-34.607.731;-58.438.304.099.999.900;385 - Franklin;414;20.0;Franklin 440;Franklin;440.0;;Caballito
+-346.203.961;-5.846.371.460.000.000;386 - Gavilan Y Vallese;415;20.0;Gavilan 786;Gavilan;786.0;;Flores
+-345.532.664;-58.469.072;257 - Plaza Francisco Ramirez;416;28.0;Pedraza, Manuela 2700;Pedraza, Manuela;2700.0;;Nuñez
+-346.053.524;-583.880.338;328 - Centro Cultural San Martin;417;20.0;Sarmiento 1501;Sarmiento;1501.0;;San Nicolas
+-34.580.773;-58.444.613.600.000.000;345 - Plaza Mafalda;418;20.0;Arenal, Concepcion y Martinez, Enrique, Gral.;Arenal, Concepcion;;Martinez, Enrique, Gral.;Colegiales
+-34.547.673;-58.467.851;359 - Plaza Balcarce;419;20.0;Jaramillo 2324;Jaramillo;2324.0;;Nuñez
+-345.440.696;-584.390.434;375 - Ciudad Universitaria I;420;20.0;;;;;Belgrano
+-345.419.013;-584.438.699;376 - Ciudad Universitaria II;421;12.0;;;;;Belgrano
+-3.454.098.920.000.000;-584.442.786;377 - Ciudad Uuniversitaria III;422;28.0;;;;;Belgrano
+-34.638.584;-58.399.682.999.999.900;387 - Luna;424;16.0;Luna 201;Luna;201.0;;Parque Patricios
+-34.644.076.299.999.900;-58.422.091;394 - Av. La Plata;425;16.0;Arbeletche, Anibal P. 804;Arbeletche, Anibal P.;804.0;;Nueva Pompeya
+-34.555.582;-58.457.962;396 - PLAZA ALBERTI;426;20.0;Arcos y Roosevelt Franklin D.;Arcos;;Roosevelt Franklin D.;Belgrano
+-3.464.072;-58.367.461;397 - PLAZA MATHEU;427;24.0;Hernandarias y Araoz De Lamadrid, Gregorio, Gral.;Hernandarias;;Araoz De Lamadrid, Gregorio, Gral.;Boca
+-34.587.458.000.000.000;-584.739.506;225 - HOSPITAL TORNU;428;20.0;Avalos 1052;Avalos;1052.0;;Parque Chas
+-346.115.826;-58.484.692;201 - JUAN AGUSTIN GARCIA;429;20.0;Garcia, Juan Agustin 3074;Garcia, Juan Agustin;3074.0;;Villa Del Parque
+-34.607.981;-58.377.885.600.000.000;037 - Claudia Pia Braudacco;430;12.0;Esmeralda y Rivadavia Av.;Esmeralda;;Rivadavia Av.;San Nicolas
+-345.430.055;-584.361.167;362 - PARQUE DE LA MEMORIA;431;20.0;Obligado Rafael, Av.Costanera 7201;Obligado Rafael, Av.Costanera;7201.0;;Belgrano
+-34.620.249;-5.843.587.700.000.000;187 - Jose Maria Moreno;432;20.0;Moreno, Jose Maria Av. 141;Moreno, Jose Maria Av.;141.0;;Caballito
+-34.637.491;-58.373.638;273 - Plazoleta Colombia;433;20.0;Brandsen 1619;Brandsen;1619.0;;Barracas
+-345.457.258;-584.650.865;247 - Plaza Lucio Demare;434;12.0;O'Higgins 3750;O'Higgins;3750.0;;Nuñez
+-34.544.597.100.000.000;-584.595.541;227 -Club Ciudad de Buenos Aires;435;16.0;Sanchez, Miguel B. Av. y Del Libertador Av.;Sanchez, Miguel B. Av.;;Del Libertador Av.;Nuñez
+-345.782.972;-584.450.299;253 - Plaza Colegiales;436;28.0;Tte. Benjam�n Matienzo 3090-3060;Plaza Colegiales;;;Palermo
+-3.461.001.199;-583.749.195;016 - Legislatura;441;20.0;Peru 169;Peru;169.0;Roca, Julio A., Presidente Diagonal Sur Av.;Monserrat
+-34.605.619.399.999.900;-58.371.607;048 - Perón;442;15.0;Peron, Juan Domingo, Tte. General 338;Peron, Juan Domingo, Tte. General;338.0;;San Nicolas
+-346.157.533;-583.706.184;081 -Balcarce;443;18.0;Balcarce y Chile Av.;Balcarce;;Chile Av.;Monserrat
+-3.460.890.870.000.000;-583.711.541;061-Ministerio de Economia;444;24.0;Balcarce y Yrigoyen, Hipolito Av.;Balcarce;;Yrigoyen, Hipolito Av.;Monserrat
+393 - Barrio 31;-583.787.309;393 - Barrio 31;448;16.0;Carlos H. Perette 11;Carlos H. Perette;11.0;Perette, Carlos H.;Retiro
+-346.074.084;-583.950.548;076 - Ayacucho;76;20.0;Ayacucho y Peron, Juan Domingo, Tte. General;Ayacucho;;Peron, Juan Domingo, Tte. General;Balvanera
+-34.598.549;-5.839.735.400.000.000;43 - Plaza Houssay;328;16.0;Cordoba Av. y Uriburu Jose E., Pres.;Cordoba Av.;;Uriburu Jose E., Pres.;Recoleta
+-346.289.374;-584.636.606;San Jose de Flores;449;24.0;Avenida Rivadavia y Fray Cayetano;Avenida Rivadavia;;Fray Cayetano;Flores
+-34.613.449;-58.423.397;197 - Quintino Bocayuva;197;20;Quintino Bocayuva y Don Bosco;Quintino Bocayuva;;Don Bosco;Almagro
